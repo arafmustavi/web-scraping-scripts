@@ -1,6 +1,0 @@
-# YouTube downloader dependency
-yt-dlp>=2024.1.0
-# Note: ffmpeg must also be installed on your system PATH
-#   Windows : https://ffmpeg.org/download.html  (or `winget install ffmpeg`)
-#   macOS   : brew install ffmpeg
-#   Linux   : sudo apt install ffmpeg
